@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cognifyz-Tech-Level-2-Task1.2/static/css/main.fca93aa1.css",
+    "main.js": "/Cognifyz-Tech-Level-2-Task1.2/static/js/main.a01bb4db.js",
+    "static/media/bird.jpg": "/Cognifyz-Tech-Level-2-Task1.2/static/media/bird.c24e9141cb30205e3c89.jpg",
+    "static/media/Child.jpg": "/Cognifyz-Tech-Level-2-Task1.2/static/media/Child.c28a7135fa0a05333c2b.jpg",
+    "static/media/dog.jpg": "/Cognifyz-Tech-Level-2-Task1.2/static/media/dog.6ae7e0c35b4679476afe.jpg",
+    "index.html": "/Cognifyz-Tech-Level-2-Task1.2/index.html",
+    "main.fca93aa1.css.map": "/Cognifyz-Tech-Level-2-Task1.2/static/css/main.fca93aa1.css.map",
+    "main.a01bb4db.js.map": "/Cognifyz-Tech-Level-2-Task1.2/static/js/main.a01bb4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca93aa1.css",
+    "static/js/main.a01bb4db.js"
+  ]
+}
